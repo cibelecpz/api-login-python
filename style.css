@@ -1,0 +1,48 @@
+body {
+    background: #2563eb;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    font-family: Arial, sans-serif;
+}
+
+.container {
+    background: white;
+    padding: 40px;
+    border-radius: 12px;
+    width: 320px;
+    text-align: center;
+}
+
+input {
+    width: 100%;
+    padding: 10px;
+    margin: 10px 0;
+}
+
+button {
+    width: 100%;
+    padding: 10px;
+    background: #2563eb;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
+.produto {
+    background: #f9fafb;
+    border: 1px solid #ddd;
+    margin: 15px 0;
+    padding: 15px;
+    border-radius: 10px;
+}
+
+.produto h2 {
+    margin: 0;
+    color: #111827;
+}
+
+.produto p {
+    font-size: 18px;
+    color: #16a34a;
+}
